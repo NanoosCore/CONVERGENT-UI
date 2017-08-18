@@ -1,4 +1,4 @@
-[build | passing]
+
 
 # CONVERGENT-UI
 UI WITTEN IN RUST; BASED ON CONROD
